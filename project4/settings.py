@@ -102,7 +102,7 @@ DATABASES = {
 }
 
 # DATABASES = {
-#     'default': dj_database_url.parse(os.environ.get("DATABASE_URL"))
+#     'default': dj_database_url.parse(os.environ.get("postgres://u5pzxoeod82:Gt08vhUp3Id1@ep-gentle-mountain-a23bxz6h-pooler.eu-central-1.aws.neon.tech/rant_cadet_spot_499417"))
 # }
 
 CSRF_TRUSTED_ORIGINS = [
